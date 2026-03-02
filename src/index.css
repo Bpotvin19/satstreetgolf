@@ -369,7 +369,7 @@ body::after{
 .poker-note-h{font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:10px}
 .poker-rule{display:flex;align-items:flex-start;gap:9px;font-size:12px;color:var(--fog);line-height:1.5;margin-bottom:7px}
 .poker-rule:last-child{margin-bottom:0}
-.poker-rule::before{content:'\2014';color:var(--gold);flex-shrink:0}
+.poker-rule::before{content:'\203A';color:var(--gold);flex-shrink:0}
 .ev-right-h{font-family:'Cormorant Garamond',serif;font-size:clamp(28px,3.5vw,44px);font-weight:300;color:white;line-height:1.1;margin-bottom:18px}
 .ev-right-h em{font-style:italic;color:var(--gold-hi)}
 .ev-right-p{font-size:14px;font-weight:300;color:var(--fog);line-height:1.9;margin-bottom:16px}

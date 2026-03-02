@@ -11,7 +11,7 @@ export default function Perks() {
             <div className="perk-icon">&#9971;</div>
             <div>
               <div className="perk-h">Titleist ProV1 Golf Balls</div>
-              <div className="perk-p">Every registered golfer receives a sleeve of Titleist ProV1 balls &mdash; the choice of Tour professionals worldwide.</div>
+              <div className="perk-p">Every registered golfer receives a sleeve of Titleist ProV1 balls, the choice of Tour professionals worldwide.</div>
             </div>
           </div>
           <div className="perk-card">

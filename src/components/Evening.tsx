@@ -6,13 +6,13 @@ export default function Evening() {
           <div className="rv">
             <div className="slabel"><span className="slabel-txt">The Evening Experience</span></div>
             <div className="ev-right-h">After the Round,<br />the <em>Real Game Begins</em></div>
-            <p className="ev-right-p">The evening programme is designed to be as compelling as the golf itself. Following the close of the round, guests transition into a curated dinner and poker experience &mdash; relaxed in atmosphere, elevated in company.</p>
+            <p className="ev-right-p">The evening programme is designed to be as compelling as the golf itself. Following the close of the round, guests transition into a curated dinner and poker experience: relaxed in atmosphere, elevated in company.</p>
             <p className="ev-right-p" style={{ fontSize: 13 }}>The poker tournament is accessible only to registered golfers or dinner attendees, preserving the quality of the room for the entire evening.</p>
             <div className="poker-note">
               <div className="poker-note-h">Poker Tournament Rules</div>
-              <div className="poker-rule">No buy-ins or re-buys &mdash; cards are earned through golf performance</div>
+              <div className="poker-rule">No buy-ins or re-buys; cards are earned through golf performance</div>
               <div className="poker-rule">Must be registered as a golfer or dinner attendee to participate</div>
-              <div className="poker-rule">Prizes are sponsor-donated &mdash; no cash or Bitcoin prizes awarded</div>
+              <div className="poker-rule">Prizes are sponsor-donated; no cash or Bitcoin prizes awarded</div>
             </div>
           </div>
           <div className="ev-cards rv d2">

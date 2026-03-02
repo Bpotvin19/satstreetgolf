@@ -24,11 +24,11 @@ export default function Format() {
           <div className="rv d2">
             <div className="bonus-title">Extra Cards Awarded For</div>
             <div className="bonus-list">
-              <div className="bonus-item"><span className="bi-icon">&#127937;</span><span className="bi-label">Low Gross &mdash; Winning Team</span><span className="bi-card">+1 Card Each</span></div>
-              <div className="bonus-item"><span className="bi-icon">&#127936;</span><span className="bi-label">Low Net &mdash; Winning Team</span><span className="bi-card">+1 Card Each</span></div>
+              <div className="bonus-item"><span className="bi-icon">&#127937;</span><span className="bi-label">Low Gross: Winning Team</span><span className="bi-card">+1 Card Each</span></div>
+              <div className="bonus-item"><span className="bi-icon">&#127936;</span><span className="bi-label">Low Net: Winning Team</span><span className="bi-card">+1 Card Each</span></div>
               <div className="bonus-item"><span className="bi-icon">&#128081;</span><span className="bi-label">Skin on a Hole <span style={{ fontSize: 10, color: 'var(--ghost)' }}>(no ties)</span></span><span className="bi-card">+1 Card Each</span></div>
-              <div className="bonus-item"><span className="bi-icon">&#127919;</span><span className="bi-label">Closest to Pin &mdash; Holes #3, #7, #15</span><span className="bi-card">+1 Card</span></div>
-              <div className="bonus-item"><span className="bi-icon">&#128293;</span><span className="bi-label">Longest Drive &mdash; Holes #1, #4, #16</span><span className="bi-card">+1 Card</span></div>
+              <div className="bonus-item"><span className="bi-icon">&#127919;</span><span className="bi-label">Closest to Pin: Holes #3, #7, #15</span><span className="bi-card">+1 Card</span></div>
+              <div className="bonus-item"><span className="bi-icon">&#128293;</span><span className="bi-label">Longest Drive: Holes #1, #4, #16</span><span className="bi-card">+1 Card</span></div>
             </div>
             <div style={{ marginTop: 20, background: 'var(--veil)', border: '1px solid var(--line2)', borderRadius: 'var(--rm)', padding: '18px 20px' }}>
               <div style={{ fontSize: 10, fontWeight: 700, letterSpacing: '.14em', textTransform: 'uppercase' as const, color: 'var(--ghost)', marginBottom: 6 }}>Base Starting Hand</div>
